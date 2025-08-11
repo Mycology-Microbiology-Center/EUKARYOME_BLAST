@@ -3,7 +3,7 @@
 This repository contains **no source code**.  
 It exists solely to collect and manage bug reports, feature requests, and general questions about the public web service for taxonomic annotation of rRNA sequences based on the [**EUKARYOME** database](https://eukaryome.org/).
 
-:globe_with_meridians: **Production server:** URL
+:globe_with_meridians: **Server address:** [https://search.eukaryome.org/](https://search.eukaryome.org/)
 
 ---
 
